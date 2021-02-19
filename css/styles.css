@@ -1,1 +1,24 @@
+h1, h2, h3 {
+    font-family: 'Work Sans', sans-serif;
+    padding: 10px;
+}
 
+main img {
+    border-radius: 50%;
+}
+
+#cookies {
+
+}
+
+#about {
+
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
